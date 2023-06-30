@@ -15,6 +15,10 @@
 # Output files from R CMD build
 /*.tar.gz
 
+# data files
+MSOA_shp/
+pop_msoa.xlsx
+
 # Output files from R CMD check
 /*.Rcheck/
 
